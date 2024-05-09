@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Scratch
 - 📫 How to reach me discord (@saianandramz)
 - 😄 Pronouns: He
-- ⚡ Fun fact: I'm good at amths but bad at Physics.
+- ⚡ Fun fact: I'm good at maths but bad at Physics.
 
 <!---
 PiCoder29/PiCoder29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
